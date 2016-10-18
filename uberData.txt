@@ -1,0 +1,59 @@
+Client ID : dpfM7gUxBE_7nWDUGwTUrVnSXvW9Mm35
+
+Server Token : 1cicQc6YlF5GDTtjfSO2utsb9ZbCjxo2mbMMay2J
+
+Client Secret : CZ_JAzoHe2uMTombcRyEgP_0Rj35raxaMCMIMctk
+
+google API key : AIzaSyDrVzPFU9vL0ok1h3HSesxhDQbqgTm8jVk
+google maps geo coding api : AIzaSyC8XNQG2h9awgr45aSdRoids6UuWEGCong
+
+content-type: application/json
+
+https://sandbox-api.uber.com/v1/products?server_token=1cicQc6YlF5GDTtjfSO2utsb9ZbCjxo2mbMMay2J&latitude=37.7759792&longitude=-122.41823
+
+
+https://sandbox-api.uber.com/v1/estimates/price?server_token=1cicQc6YlF5GDTtjfSO2utsb9ZbCjxo2mbMMay2J&start_latitude=12.9716&start_longitude=77.5946&end_latitude=12.9082&end_longitude=77.6074
+
+
+
+https://api.uber.com/v1/estimates/price?server_token=1cicQc6YlF5GDTtjfSO2utsb9ZbCjxo2mbMMay2J&start_latitude=12.9716&start_longitude=77.5946&end_latitude=12.9082&end_longitude=77.6074
+
+
+
+https://www.googleapis.com/customsearch/v1?key=AIzaSyDrVzPFU9vL0ok1h3HSesxhDQbqgTm8jVk&cx=017576662512468239146:omuauf_lfve&q=lectures
+
+
+
+https://developer.uber.com/docs/ride-requests/tutorials/api/introduction
+
+
+https://developer.uber.com/docs/ride-requests/references/api/v1-products-get
+
+
+
+https://www.youtube.com/watch?v=7FiFZ_KTkDI
+
+
+https://developer.uber.com/docs/ride-requests/references/api
+
+
+https://developer.uber.com/docs/ride-requests/references/api/v1-requests-post
+
+
+https://developer.uber.com/docs/ride-requests/tutorials/api/requests-flow
+
+
+https://developer.uber.com/docs/ride-requests/tutorials/api/introduction
+
+
+https://developer.uber.com/docs/ride-requests/guides/authentication/introduction#api-token-authentication
+
+
+
+
+https://maps.googleapis.com/maps/api/geocode/json?address=1600+Amphitheatre+Parkway,+Mountain+View,+CA&key=AIzaSyC8XNQG2h9awgr45aSdRoids6UuWEGCong
+
+
+
+https://maps.googleapis.com/maps/api/geocode/json?address=Banashankari&key=AIzaSyC8XNQG2h9awgr45aSdRoids6UuWEGCong
+
